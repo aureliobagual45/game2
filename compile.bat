@@ -1,0 +1,1 @@
+gcc main.c play.c maplist.c mapreader.c mapcreator.c map.c menu.c -lpdcurses -o main.exe
